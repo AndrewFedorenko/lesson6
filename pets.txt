@@ -1,0 +1,3 @@
+Dog1,2;
+GuineaPig1,1;
+Parrot1,3;
